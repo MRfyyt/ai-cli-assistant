@@ -1,0 +1,26 @@
+# ai-cli-assistant
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# 环境变量 (包含 API Key, 不要提交)
+.env
+
+# 虚拟环境
+venv/
+.venv/
+
+# 对话历史
+history/
+history_*.json
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+Thumbs.db
+.DS_Store
